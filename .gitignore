@@ -25,3 +25,4 @@
 .vscode
 .idea
 /db-data
+!bin
