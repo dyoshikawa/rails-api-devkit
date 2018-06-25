@@ -24,5 +24,6 @@
 /vendor/bundle
 .vscode
 .idea
-/db-data
+/mysql-data
 !bin
+.DS_Store
